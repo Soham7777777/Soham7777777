@@ -4,13 +4,14 @@
 
 🔧 Skills & Technologies:
 - Languages: C, Java, Python, HTML, CSS, JavaScript, SQL, C#, Dart
-- Frameworks: Flask, HTMX, Spring Boot, Pygame
+- Frameworks: Flask, HTMX, Spring Boot, Pygame, Selenium
 
 💡 Projects:
 - Flask: University Management System, Event Management System (in progress), TODO Application
 - Pygame: Bug Runner (a platformer game with challenging obstacles)
 - Spring Boot: Cash Card API
 - HTMX: I've used it extensively with flask projects
+- Selenium: I've used this for web-scrapping projects   
 
 🌐 Live Projects:
 - `sohamj.pythonanywhere.com`
