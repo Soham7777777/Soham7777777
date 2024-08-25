@@ -1,6 +1,6 @@
 👋 Hi there! I’m Soham, a passionate computer science student and enthusiast. Currently diving deep into web development and server-side programming, I’m committed to creating innovative projects and mastering new technologies.
 
-🎯 Goal: Aspiring to become a skilled engineer in computer science, constantly learning and growing in this ever-evolving field.
+**🎯 Goal:** Aspiring to become a skilled engineer in computer science, constantly learning and growing in this ever-evolving field.
 
 **🔧 Skills & Technologies:**
 - Languages: C, Java, Python, HTML, CSS, JavaScript, SQL, C#, Dart
