@@ -25,9 +25,9 @@ I’ve tackled numerous problems on Codeforces, LeetCode, and HackerRank, sharpe
 **🚴 Interests:** When I’m not coding, you’ll find me cycling, reading up on the latest tech trends, enjoying Minecraft, or watching short films.
 
 **📹 Top 3 Favourite YouTube channels:**
-- ThePrimeTimeagen: `www.youtube.com/@ThePrimeTimeagen`
 - Veritasium: `www.youtube.com/@veritasium`
 - Omeleto: `www.youtube.com/@Omeleto`
+- NitishRajput: `www.youtube.com/@NitishRajput`
 
 **📰 Top 3 Favourite Article Repository:**
 - Algorithms for Competitive Programming: `cp-algorithms.com`
