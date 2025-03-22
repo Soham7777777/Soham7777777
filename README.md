@@ -3,17 +3,17 @@
 **🎯 Goal:** Aspiring to become a skilled engineer in computer science, constantly learning and growing in this ever-evolving field.
 
 **🔥 Power Play:**
-- Developing server-rendered web applications with Flask and Python packages for pip.
+- Developing applications with Python and packaging it to PyPi.
 
 **🔧 Technologies:**
 - Programming Languages: C, Java, Python, JavaScript, SQL. 
-- Frameworks: Django, Pydantic, SQLAlchemy, Click, Jinja2, Bootstrap, HTML + CSS.
+- Packages: Django, Flask, Pydantic, SQLAlchemy, Click, Jinja2, Selenium, Celery.
 
 **💡 Projects:**
-- Flask: University Management System, Event Management System (in progress), TODO Application
-- Pygame: Bug Runner (a platformer game with challenging obstacles)
-- HTMX: I've used it extensively with flask projects
-- Selenium: I've used this for web-scrapping projects
+- Event Management webapp: “The Frolic” app where users can create and manage events.
+- Fintech webapp: Stock market analysis features developed under the coordination of professor
+Naimish Vadodariya.
+- Wallpapers webapp: Wallpaper with different dimensions and categories, the dimensions and files size can be dynamically configured. Files are compressed to present on frontend. 
 
 **🌐 Live Projects:**
 - `sohamj.pythonanywhere.com`
