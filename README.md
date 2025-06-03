@@ -16,7 +16,7 @@ Naimish Vadodariya.
 - Wallpapers webapp: Wallpaper with different dimensions and categories, the dimensions and files size can be dynamically configured. Files are compressed to present on frontend. 
 
 **🌐 Live Projects:**
-- `[sohamj.pythonanywhere.com](https://sohamjobanputra7.pythonanywhere.com/)`
+- [sohamj.pythonanywhere.com](https://sohamjobanputra7.pythonanywhere.com/)
 
 **💻 Competitive Programming:** 
 I’ve tackled numerous problems on Codeforces, LeetCode, and HackerRank, sharpening my problem-solving skills and coding expertise.
