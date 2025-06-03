@@ -7,7 +7,7 @@
 
 **🔧 Technologies:**
 - Programming Languages: C, Java, Python, JavaScript, SQL. 
-- Packages: Django, Flask, Pydantic, SQLAlchemy, Click, Jinja2, Selenium, Celery.
+- Packages: Django, DRF, Flask, Pydantic, SQLAlchemy, Click, Jinja2, Selenium, Celery.
 
 **💡 Projects:**
 - Event Management webapp: “The Frolic” app where users can create and manage events.
@@ -16,7 +16,7 @@ Naimish Vadodariya.
 - Wallpapers webapp: Wallpaper with different dimensions and categories, the dimensions and files size can be dynamically configured. Files are compressed to present on frontend. 
 
 **🌐 Live Projects:**
-- `sohamj.pythonanywhere.com`
+- `[sohamj.pythonanywhere.com](https://sohamjobanputra7.pythonanywhere.com/)`
 
 **💻 Competitive Programming:** 
 I’ve tackled numerous problems on Codeforces, LeetCode, and HackerRank, sharpening my problem-solving skills and coding expertise.
